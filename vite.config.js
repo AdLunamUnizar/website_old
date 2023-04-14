@@ -26,9 +26,5 @@ export default defineConfig({
       transformMixedEsModules: true,
     }
   },
-  "scripts": {
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "base": './'
+  base: './'
 })
