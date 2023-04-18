@@ -69,8 +69,8 @@ function HeroHome() {
                 <img className="mx-auto" src={HeroImage} width="768" height="432" alt="Hero" />
                 <svg
                   className="absolute inset-0 max-w-full mx-auto md:max-w-none h-auto"
-                  width="768"
-                  height="432"
+                  width="500"
+                  height="200"
                   viewBox="0 0 768 432"
                   xmlns="http://www.w3.org/2000/svg"
                   xmlnsXlink="http://www.w3.org/1999/xlink"
@@ -120,7 +120,7 @@ function HeroHome() {
                   <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm0 2C5.373 24 0 18.627 0 12S5.373 0 12 0s12 5.373 12 12-5.373 12-12 12z" />
                   <path d="M10 17l6-5-6-5z" />
                 </svg>
-                <span className="ml-3">Watch the full video (2 min)</span>
+                <span className="ml-3">Ver vídeo</span>
               </button>
             </div>
 
