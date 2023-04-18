@@ -36,7 +36,7 @@ function Header() {
                 <rect width="32" height="32" rx="16" fill="url(#header-logo)" fillRule="nonzero" />
               </svg>
             </Link>*/}
-            <img className="md:max-w-none mx-auto rounded" src={Logo} width="500" height="462" alt="Features bg" />
+            <img className="md:max-w-none mx-auto rounded" src={Logo} width="100" height="462" alt="Features bg" />
           </div>
 
           {/* Site navigation */}
