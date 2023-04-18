@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
-import Logo from '../images/white_bg_logo.png';
+import Logo from '../images/white-bg-logo.png';
 
 function Header() {
 
