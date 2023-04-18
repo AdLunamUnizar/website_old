@@ -58,6 +58,21 @@ function HeroHome() {
                     Departamentos
                   </a>
                 </div>
+                <div>
+                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">
+                    Fases del proyecto
+                  </a>
+                </div>
+                <div>
+                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">
+                    Colaboraciones
+                  </a>
+                </div>
+                <div>
+                  <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">
+                    Contacto
+                  </a>
+                </div>
               </div>
             </div>
           </div>
