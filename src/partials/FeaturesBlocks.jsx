@@ -13,7 +13,7 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Nuestras unidades de trabajo</h2>
+            <h2 className="h2 mb-4">Departamentos</h2>
             <p className="text-xl text-gray-600">Nuestro éxito se basa en la comunicación y el trabajo multidisciplinar.</p>
           </div>
 
