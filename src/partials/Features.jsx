@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import Transition from '../utils/Transition';
 
 import FeaturesBg from '../images/features-bg.png';
-import FeaturesElement from '../images/features-element.png';
+//import FeaturesElement from '../images/features-element.png';
 
 function Features() {
 
@@ -113,7 +113,7 @@ function Features() {
                 >
                   <div className="relative inline-flex flex-col">
                     <img className="md:max-w-none mx-auto rounded" src={FeaturesBg} width="500" height="462" alt="Features bg" />
-                    <img className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width="500" height="44" alt="Element" style={{ top: '30%' }} />
+                    {/*<img className="md:max-w-none absolute w-full left-0 transform animate-float" src={FeaturesElement} width="500" height="44" alt="Element" style={{ top: '30%' }} />*/}
                   </div>
                 </Transition>
                 {/* Item 2 */}
