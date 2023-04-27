@@ -33,8 +33,8 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Conoce el proyecto</h1>
-            <p className="text-xl text-gray-600">Somos un grupo de estudiantes de la Universidad de Zaragoza apasionados por la exploración espacial y por el diseño y construcción de cohetes. Aspiramos a que, desde la concepción del diseño hasta el lanzamiento, todos los aspectos del proceso sean realizados por nuestro equipo.Nuestro objetivo, llegar a la Luna. Ad Lunam!</p>
+            <h1 className="h2 mb-4">Take a look at our project</h1>
+            <p className="text-xl text-gray-600">We are a group of students from the University of Zaragoza who are passionate about space exploration and the design and construction of rockets. Our team aspires to handle all aspects of the process, from design conception to launch. Our goal, reach the Moon. Ad lunam!</p>
           </div>
 
           {/* Section content */}
