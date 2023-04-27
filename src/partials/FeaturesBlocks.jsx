@@ -13,8 +13,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Departamentos</h2>
-            <p className="text-xl text-gray-600">Nuestro éxito se basa en la comunicación y el trabajo multidisciplinar.</p>
+            <h2 className="h2 mb-4">Departaments</h2>
+            <p className="text-xl text-gray-600">Our success is based on communication and multidisciplinary work.</p>
           </div>
 
           {/* Items */}
@@ -33,8 +33,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Diseño</h4>
-              <p className="text-gray-600 text-center">Maquetación y construcción del cohete</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Design</h4>
+              <p className="text-gray-600 text-center">Layout and construction of the rocket</p>
             </div>
 
             {/* 2nd item */}
@@ -49,8 +49,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Electrónica</h4>
-              <p className="text-gray-600 text-center">Medidor de parámetros</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Electronics</h4>
+              <p className="text-gray-600 text-center">Control and measurement of parameters</p>
             </div>
 
             {/* 3rd item */}
@@ -64,8 +64,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Propulsión</h4>
-              <p className="text-gray-600 text-center">Motor del cohete</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Propulsion</h4>
+              <p className="text-gray-600 text-center">Rocket engine</p>
             </div>
 
             {/* 4th item */}
@@ -81,8 +81,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>              
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Marketing y empresa</h4>
-              <p className="text-gray-600 text-center"></p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Marketing and business</h4>
+              <p className="text-gray-600 text-center">Obtain collaborations</p>
             </div>
 
             {/* 5th item */}
@@ -96,8 +96,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Recuperación</h4>
-              <p className="text-gray-600 text-center">Sistema de paracaídas</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Recovery</h4>
+              <p className="text-gray-600 text-center">Parachute system</p>
             </div>
 
             {/* 6th item */}
@@ -113,8 +113,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Coordinadores del equipo</h4>
-              <p className="text-gray-600 text-center">Responsables de cada departamento</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Team coordinators</h4>
+              <p className="text-gray-600 text-center">Organization of each department</p>
             </div>
 
           </div>
