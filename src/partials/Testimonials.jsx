@@ -17,7 +17,7 @@ function Testimonials() {
             </linearGradient>
           </defs>
           <g transform="translate(0 -3)" fill="url(#illustration-02)" fillRule="evenodd">
-            <circle cx="1630" cy="128" r="128" />
+            <circle cx="1630" cy="128" r="70" />
             <circle cx="178" cy="481" r="40" />
           </g>
         </svg>
