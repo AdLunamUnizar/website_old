@@ -39,12 +39,12 @@ function Testimonials() {
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="md:max-w-none mx-auto rounded" src={LogoEINA} width="200" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              <img className="md:max-w-none mx-auto rounded" src={LogoEINA} width="300" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="200" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="150" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
             </div>
 
             {/* Item */}
