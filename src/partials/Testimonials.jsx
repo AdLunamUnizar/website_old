@@ -28,8 +28,8 @@ function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">Colaboradores</h2>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Organizaciones que cooperan con nosotros.</p>
+            <h2 className="h2 mb-4">Partners</h2>
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Organizations that cooperate with us.</p>
           </div>
 
           {/* Items */}
