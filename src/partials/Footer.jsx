@@ -121,7 +121,7 @@ function Footer() {
             </form>
           </div>          
 
-        </div>*}
+        </div>*/}
 
         {/* Bottom area */}
         <div className="md:flex md:items-center md:justify-between py-4 md:py-8 border-t border-gray-200">
