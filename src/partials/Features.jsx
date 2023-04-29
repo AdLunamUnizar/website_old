@@ -43,8 +43,8 @@ function Features() {
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Proyectos</h3>
-                <p className="text-xl text-gray-600">Este curso estamos inmersos en varios proyectos.</p>
+                <h3 className="h3 mb-3">Projects</h3>
+                <p className="text-xl text-gray-600">We are currently immersed in several projects.</p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
@@ -55,7 +55,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">AUGUSTA</div>
-                    <div className="text-gray-600">Nuestro primer cohete AUGUSTA (Aerospace Unit for General Use in Space Technology and Aviation).</div>
+                    <div className="text-gray-600">Our first rocket AUGUSTA (Aerospace Unit for General Use in Space Technology and Aviation).</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -69,8 +69,8 @@ function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(2); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Cohete para CanSats</div>
-                    <div className="text-gray-600">Cohete diseñado para llevar CanSats en la final regional de Aragón.</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Rocket for CanSats</div>
+                    <div className="text-gray-600">Rocket designed to participate in the Aragon regional final of CanSats.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -84,8 +84,8 @@ function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(3); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Banco de ensayos</div>
-                    <div className="text-gray-600">Nuestro propio banco de ensayos para medir la potencia de los motores cohete.</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Test bench</div>
+                    <div className="text-gray-600">Our own test bench to measure the power of rocket engines.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
