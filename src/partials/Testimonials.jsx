@@ -2,6 +2,7 @@ import React from 'react';
 
 import LogoEINA from '../images/eina.png';
 import LogoIEEE from '../images/ieee.png';
+import LogoCTMYF from '../images/ctmyf.jpg';
 import TestimonialImage from '../images/testimonial.jpg';
 
 function Testimonials() {
@@ -35,7 +36,12 @@ function Testimonials() {
           </div>
 
           {/* Items */}
-          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-2">
+          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-3">
+            
+             {/* Item */}
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+              <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="150" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+            </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
@@ -44,7 +50,7 @@ function Testimonials() {
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="150" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              <img className="md:max-w-none mx-auto rounded" src={LogoCTMYF} width="300" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
             </div>
 
             {/* Item */}
