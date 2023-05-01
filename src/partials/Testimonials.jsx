@@ -40,17 +40,23 @@ function Testimonials() {
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="md:max-w-none mx-auto rounded" src={LogoEINA} width="250" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              <Link to="https://eina.unizar.es/" target="_blank">
+                <img className="md:max-w-none mx-auto rounded" src={LogoEINA} width="250" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              </Link>
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="100" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              <Link to="https://edu.ieee.org/es-unizar/" target="_blank">
+                <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="100" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              </Link>
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img className="md:max-w-none mx-auto rounded" src={LogoCTMYF} width="200" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              <Link to="http://ctmyf.unizar.es/" target="_blank">
+                <img className="md:max-w-none mx-auto rounded" src={LogoCTMYF} width="200" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+              </Link>
             </div>
 
             {/* Item */}
