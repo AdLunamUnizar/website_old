@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import LogoEINA from '../images/eina.png';
 import LogoIEEE from '../images/ieee.png';
