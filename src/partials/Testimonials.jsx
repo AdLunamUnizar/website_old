@@ -37,7 +37,7 @@ function Testimonials() {
           </div>
 
           {/* Items */}
-          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-3">
+          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-2">
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
@@ -52,6 +52,10 @@ function Testimonials() {
                 <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="100" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
               </Link>
             </div>
+
+          </div>
+
+          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-2">
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
@@ -60,27 +64,9 @@ function Testimonials() {
               </Link>
             </div>
 
-          </div>
-
-          <div className="max-w-sm md:max-w-4xl mx-auto grid gap-2 grid-cols-4 md:grid-cols-3">
-
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <Link to="https://eina.unizar.es/" target="_blank">
-                <img className="md:max-w-none mx-auto rounded" src={LogoEINA} width="250" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
-              </Link>
-            </div>
-
-            {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <Link to="https://edu.ieee.org/es-unizar/" target="_blank">
-                <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="100" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
-              </Link>
-            </div>
-
-            {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <Link to="http://ctmyf.unizar.es/" target="_blank">
+              <Link to="http://didyf.unizar.es/" target="_blank">
                 <img className="md:max-w-none mx-auto rounded" src={LogoCTMYF} width="200" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
               </Link>
             </div>
