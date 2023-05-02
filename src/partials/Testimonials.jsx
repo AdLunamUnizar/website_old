@@ -68,7 +68,7 @@ function Testimonials() {
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
               <Link to="http://didyf.unizar.es/" target="_blank">
-                <img className="md:max-w-none mx-auto rounded" src={LogoDIDYF} width="200" height="24" alt="Departamento de Ingeniería de Diseño y Fabricación" />
+                <img className="md:max-w-none mx-auto rounded" src={LogoDIDYF} width="220" height="24" alt="Departamento de Ingeniería de Diseño y Fabricación" />
               </Link>
             </div>
 
