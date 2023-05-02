@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import LogoEINA from '../images/eina.png';
 import LogoIEEE from '../images/ieee.png';
 import LogoCTMYF from '../images/ctmyf.jpg';
+import LogoDIDYF from '../images/didyf.jpg';
 import TestimonialImage from '../images/testimonial.jpg';
 
 function Testimonials() {
@@ -49,7 +50,7 @@ function Testimonials() {
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
               <Link to="https://edu.ieee.org/es-unizar/" target="_blank">
-                <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="100" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+                <img className="md:max-w-none mx-auto rounded" src={LogoIEEE} width="100" height="24" alt="IEEE" />
               </Link>
             </div>
 
@@ -60,14 +61,14 @@ function Testimonials() {
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
               <Link to="http://ctmyf.unizar.es/" target="_blank">
-                <img className="md:max-w-none mx-auto rounded" src={LogoCTMYF} width="200" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+                <img className="md:max-w-none mx-auto rounded" src={LogoCTMYF} width="200" height="24" alt="Departamento Ciencia y Tecnología de Materiales y Fluidos" />
               </Link>
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
               <Link to="http://didyf.unizar.es/" target="_blank">
-                <img className="md:max-w-none mx-auto rounded" src={LogoCTMYF} width="200" height="24" alt="Escuela de Ingeniería y Arquitectura - Universidad de Zaragoza" />
+                <img className="md:max-w-none mx-auto rounded" src={LogoDIDYF} width="200" height="24" alt="Departamento de Ingeniería de Diseño y Fabricación" />
               </Link>
             </div>
 
