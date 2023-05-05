@@ -5,6 +5,7 @@ import LogoEINA from '../images/eina.png';
 import LogoIEEE from '../images/ieee.png';
 import LogoCTMYF from '../images/ctmyf.jpg';
 import LogoDIDYF from '../images/didyf.jpg';
+import LogoJTS from '../images/jointhespace.png';
 import TestimonialImage from '../images/testimonial.jpg';
 
 function Testimonials() {
@@ -69,6 +70,17 @@ function Testimonials() {
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
               <Link to="http://didyf.unizar.es/" target="_blank">
                 <img className="md:max-w-none mx-auto rounded" src={LogoDIDYF} width="220" height="24" alt="Departamento de Ingeniería de Diseño y Fabricación" />
+              </Link>
+            </div>
+
+          </div>
+
+          <div className="max-w-sm md:max-w-4xl pb-12 mx-auto grid gap-2 grid-cols-4 md:grid-cols-1">
+
+            {/* Item */}
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+              <Link to="https://www.jointhe.space/" target="_blank">
+                <img className="md:max-w-none mx-auto rounded" src={LogoJTS} width="200" height="24" alt="Join The Space" />
               </Link>
             </div>
 
