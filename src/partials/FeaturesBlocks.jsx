@@ -34,7 +34,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Design</h4>
-              <p className="text-gray-600 text-center">Layout and construction of the rocket</p>
+              <p className="text-gray-600 text-center">Mechanical design and manufacture of the rocket</p>
             </div>
 
             {/* 2nd item */}
@@ -65,7 +65,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Propulsion</h4>
-              <p className="text-gray-600 text-center">Rocket engine</p>
+              <p className="text-gray-600 text-center">Rocket motor selection and impulse testing</p>
             </div>
 
             {/* 4th item */}
