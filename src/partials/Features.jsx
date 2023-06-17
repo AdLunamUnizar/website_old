@@ -72,7 +72,7 @@ function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(2); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Rocket for CanSats</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Pirineus</div>
                     <div className="text-gray-600">Rocket designed to participate in the Aragon regional final of CanSats.</div>
                   </div>
                   {/*<div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -88,7 +88,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Testbench</div>
-                    <div className="text-gray-600">Our own test bench to measure the power of rocket engines.</div>
+                    <div className="text-gray-600">Our own test bench for measuring relevant variables such as the power of rocket engines.</div>
                   </div>
                   {/*<div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
