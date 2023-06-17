@@ -88,7 +88,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Testbench</div>
-                    <div className="text-gray-600">Our own test bench for measuring relevant variables such as the power of rocket engines.</div>
+                    <div className="text-gray-600">Our own test bench for measuring relevant variables of our own-made engines such as the power or internal pressure.</div>
                   </div>
                   {/*<div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
